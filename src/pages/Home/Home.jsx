@@ -23,9 +23,9 @@ const Home = () => {
             We Build <br />
             <span className="gradient-text">Productive</span> Apps
           </h1>
-          <p className="mt-5 text-[#627382]">
+          <p className="mt-5 text-[#627382] mx-4">
             At <b>HERO.IO,</b> we craft innovative apps designed to make
-            everyday life simpler, smarter, and more exciting. <br /> Our goal
+            everyday life simpler, smarter, and more exciting. Our goal
             is to turn your ideas into digital experiences that truly make an
             impact.
           </p>

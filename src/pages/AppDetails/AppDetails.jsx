@@ -71,16 +71,16 @@ const AppDetails = () => {
   return (
     <div>
       <div className="px-0 md:px-10 lg:px-10 max-w-7xl mx-auto w-full text-center mt-10 items-center ">
-        <div className="flex flex-col md:flex-row lg:flex-row gap-10 mb-10 ">
-          <div className="flex flex-col md:flex-row lg:flex-row gap-10 w-full items-center border-gray-300 border-b-1 pb-10">
+        <div className="flex flex-col md:flex-row lg:flex-row gap-10  ">
+          <div className="flex flex-col md:flex-row lg:flex-row gap-10 w-full items-center  pb-10">
             <img
               src={image}
               alt=""
               className="bg-white p-10 w-xs rounded-lg mx-auto"
             />
-            <div className="text-left w-sm md:w-full lg:w-full">
+            <div className="text-left w-sm md:w-full lg:w-full px-5">
               <div className="border-gray-300 border-b-1 pb-5">
-                <h2 className="text-4xl font-bold mt-4">{title}</h2>
+                <h2 className="text-2xl md:text-4xl lg:text-4xl font-bold mt-4">{title}</h2>
                 <p className="text-gray-500">
                   Developed By{" "}
                   <a
@@ -91,7 +91,7 @@ const AppDetails = () => {
                   </a>
                 </p>
               </div>
-              <div className="flex gap-10 text-center my-5">
+              <div className="flex gap-5 md:gap-10 lg:gap-10 text-center my-5">
                 <div className="flex flex-col items-center">
                   <img src={downloadIcon} alt="" />
                   <p>Downloads</p>
@@ -111,7 +111,7 @@ const AppDetails = () => {
               <button
                 disabled={isInstalled}
                 onClick={handleInstall}
-                className={`py-7 px-7 rounded-lg text-white font-semibold btn ${
+                className={`py-7   px-7 rounded-lg text-white font-semibold btn ${
                   isInstalled ? "bg-gray-500" : "bg-[#00bc7d]"
                 }`}
               >
@@ -120,7 +120,7 @@ const AppDetails = () => {
             </div>
           </div>
         </div>
-        <div className="border-gray-300 border-b-1 pb-10 mx-5">
+        <div className="border-gray-300 border-y-1 pt-10 pb-10 mx-5">
           <h3 className="text-left font-bold text-2xl">Rating</h3>
           <div className="w-full h-[300px] md:h-[300px]   p-5 ">
             <ResponsiveContainer width="100%" height="100%">

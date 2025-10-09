@@ -78,14 +78,14 @@ const Installation = () => {
           {sortApps.length > 0 ? (
             sortApps.map((app) => (
               <div
-                className="flex justify-between items-center bg-white p-5 rounded-lg hover:shadow w-full md:w-full lg:w-full "
+                className="flex justify-between items-center bg-white p-4 rounded-lg hover:shadow w-full md:w-full lg:w-full "
                 key={app.id}
               >
-                <div className=" flex  gap-5 md:gap-10 lg:gap-10  items-center  ">
+                <div className=" flex  gap-3 md:gap-10 lg:gap-10  items-center  ">
                   <img
                     src={app.image}
                     alt=""
-                    className="w-15 md:w-20 lg:w-20 rounded-lg mx-auto"
+                    className="w-10 md:w-20 lg:w-20 rounded-lg mx-auto"
                   />
                   <div className="text-left ">
                     <h2 className="text-xl  md:text-2xl lg:text-2xl font-bold mt-4 mb-2">
@@ -101,13 +101,13 @@ const Installation = () => {
                         <img src={ratingIcon} alt="" className="w-[16px]" />
                         <p className="text-[#ff8811]">{app.ratingAvg}</p>
                       </div>
-                      <p className="text-[#627382]">{app.size} MB</p>
+                      <p className="text-[#627382] ">{app.size}MB</p>
                     </div>
                   </div>
                 </div>
                 <button
                   onClick={() => handelUninstall(app.id, app)}
-                  className="bg-[#00bc7d] p-4 md:p-7 lg:p-7  rounded-lg text-white font-semibold btn "
+                  className="bg-[#00bc7d] p-2 md:p-7 lg:p-7  rounded-lg text-white font-semibold btn "
                 >
                   Uninstall
                 </button>
