@@ -7,7 +7,6 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
-
 .gradient-text, .gradient-item:hover {
   background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
   -webkit-background-clip: text;
