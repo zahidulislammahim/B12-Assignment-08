@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.gradient-text, .gradient-item:hover {
+  background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+.nav-btn{
+    background: linear-gradient(125deg, #632EE3 5.68%, #9F62F2 88.38%);
+    color: white;
+}
+.cardHover:hover img{
+  transform: scale(1.05);
+  transition: all 0.5s ease-in-out;
+}
+.gradient-item:hover img{
+    filter: brightness(0) saturate(100%) invert(36%) sepia(94%) saturate(2500%) hue-rotate(250deg) brightness(100%) contrast(97%);
+}

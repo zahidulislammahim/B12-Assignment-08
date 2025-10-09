@@ -1,0 +1,722 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "title": "TaskMaster",
+    "companyName": "Productivity Co.",
+    "id": 1,
+    "description": "TaskMaster is a comprehensive task management application designed to revolutionize how you organize your daily life. This powerful tool allows you to create detailed task lists, set meaningful priorities, establish realistic deadlines, and configure intelligent reminders that ensure you never miss important commitments. With its intuitive drag-and-drop interface, you can easily categorize tasks into projects, create subtasks for complex activities, and visualize your progress through interactive charts and productivity metrics. The app features seamless cloud synchronization across all your devices, enabling you to access your tasks from smartphones, tablets, and computers. Advanced features include collaborative project management, recurring task automation, calendar integration, and smart suggestions based on your working patterns. Whether you're managing personal errands, academic assignments, or professional projects, TaskMaster provides the organizational structure and flexibility needed to enhance your efficiency and reduce stress. The app also offers customizable themes, notification preferences, and data export capabilities, making it suitable for both individual users and teams working on shared objectives.",
+    "size": 45,
+    "reviews": 1500,
+    "ratingAvg": 4.5,
+    "downloads": "54",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+    "title": "FitLife",
+    "companyName": "HealthTech",
+    "id": 2,
+    "description": "FitLife serves as your ultimate digital fitness companion, offering a holistic approach to health and wellness. This comprehensive application provides personalized workout regimens tailored to your fitness level, goals, and available equipment. From strength training and cardio workouts to yoga and flexibility exercises, FitLife includes detailed video demonstrations, proper form guidance, and adaptive difficulty levels. The nutrition tracking system enables you to monitor calorie intake, macronutrient balance, and water consumption while offering healthy recipe suggestions and meal planning tools. Progress monitoring features include weight tracking, body measurements, performance analytics, and achievement badges that keep you motivated. The app integrates with popular wearable devices and fitness trackers to automatically sync your activity data, heart rate information, and sleep patterns. Community challenges, virtual personal coaching, and social sharing features create an engaging environment that encourages consistency and accountability. Whether you're a beginner starting your fitness journey or an experienced athlete seeking to optimize performance, FitLife provides the tools, knowledge, and support system necessary to achieve sustainable results and maintain an active lifestyle long-term.",
+    "size": 60,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": "71",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1440 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2921/2921822.png",
+    "title": "RecipeBook",
+    "companyName": "Cooking Inc.",
+    "id": 3,
+    "description": "RecipeBook transforms your culinary experience by providing access to thousands of professionally curated recipes from global cuisines. This sophisticated cooking companion features advanced search functionality that allows you to find dishes based on available ingredients, dietary restrictions, cooking time, and nutritional requirements. Each recipe includes step-by-step instructions with high-quality visuals, video tutorials from expert chefs, and adjustable serving sizes that automatically recalculate ingredient quantities. The integrated cooking timer ensures perfect results while the meal planning calendar helps you organize weekly menus and generate automated shopping lists. Special dietary filters accommodate vegetarian, vegan, gluten-free, keto, and other nutritional preferences. Interactive features include the ability to save favorite recipes, create custom cookbooks, share creations with friends, and rate dishes you've tried. The app also offers seasonal recipe collections, cooking techniques tutorials, and ingredient substitution suggestions for when you're missing items. Whether you're a novice cook learning basic skills or an experienced home chef seeking inspiration, RecipeBook provides the guidance and resources needed to expand your culinary repertoire and enjoy delicious, home-cooked meals that cater to your specific tastes and nutritional needs.",
+    "size": 55,
+    "reviews": 1200,
+    "ratingAvg": 4.3,
+    "downloads": "45",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/427/427735.png",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Ltd.",
+    "id": 4,
+    "description": "TravelBuddy redefines travel planning by serving as your comprehensive digital travel assistant that simplifies every aspect of your journeys. This feature-rich application provides personalized itinerary creation tools that consider your travel preferences, budget constraints, and time availability. Access extensive destination guides with insider tips, local restaurant recommendations, and hidden gems curated by experienced travelers and tourism experts. The offline maps functionality ensures navigation capability even without internet connectivity, while real-time flight tracking and hotel booking integrations streamline your travel arrangements. TravelBuddy includes currency converters, language phrasebooks, and emergency contact information for international destinations. The app's collaborative features allow you to share travel plans with companions and coordinate activities seamlessly. Weather forecasts, local transportation guides, and cultural etiquette tips prepare you for any destination. From backpacking adventures to luxury vacations and business trips, TravelBuddy eliminates travel stress by providing organized planning tools, reliable information, and practical features that enhance your overall travel experience while keeping you informed and prepared throughout your journey.",
+    "size": 70,
+    "reviews": 1800,
+    "ratingAvg": 4.6,
+    "downloads": "62",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "title": "MoneyManager",
+    "companyName": "Finance Corp.",
+    "id": 5,
+    "description": "MoneyManager revolutionizes personal finance management by providing sophisticated yet user-friendly tools for complete financial control. This comprehensive application enables detailed tracking of income sources, expense categorization, budget creation, and savings goal monitoring. The intuitive dashboard presents visual financial reports through interactive charts and graphs that clearly illustrate spending patterns, income distribution, and progress toward financial objectives. Automated bill payment reminders prevent late fees while subscription tracking identifies recurring charges that may impact your budget. The investment tracking module monitors portfolio performance and market changes, providing insights to inform financial decisions. Advanced features include debt payoff calculators, retirement planning tools, and net worth tracking that offer a complete picture of your financial health. Bank-level security encryption protects your sensitive financial data, and multi-currency support accommodates international transactions. Customizable reporting periods, export capabilities for tax preparation, and collaborative features for family budgeting make MoneyManager suitable for individuals, couples, and households seeking to achieve financial stability, reduce unnecessary spending, build savings, and work toward long-term financial independence through informed money management decisions and consistent financial habits.",
+    "size": 50,
+    "reviews": 2200,
+    "ratingAvg": 4.4,
+    "downloads": "84",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1310 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+    "title": "PhotoSnap",
+    "companyName": "PixelWorks",
+    "id": 6,
+    "description": "PhotoSnap establishes new standards in mobile photo editing by combining professional-grade tools with accessible interfaces suitable for all skill levels. This powerful application offers an extensive collection of advanced filters, precision retouching instruments, and creative templates that transform ordinary images into extraordinary visual creations. The comprehensive editing suite includes layer-based adjustments, selective editing tools, and advanced color grading options that provide granular control over every aspect of your photographs. AI-powered enhancement features automatically improve image quality while manual controls allow creative professionals to fine-tune details according to their artistic vision. The app supports high-resolution output and maintains image quality throughout the editing process. Creative assets include professionally designed templates for social media content, custom font collections, and extensive sticker libraries. Batch processing capabilities enable efficient editing of multiple images, and the preset system allows users to save favorite editing combinations for consistent results. Whether you're a social media enthusiast creating engaging content, a photography hobbyist developing skills, or a professional requiring mobile editing solutions, PhotoSnap delivers the sophisticated tools and creative resources needed to produce stunning visual content that stands out in any context while streamlining the editing workflow.",
+    "size": 80,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": "12",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2170 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1077/1077046.png",
+    "title": "NewsFlash",
+    "companyName": "Global Media",
+    "id": 7,
+    "description": "NewsFlash delivers a revolutionary news consumption experience by providing real-time updates from trusted global sources while offering unprecedented personalization capabilities. This intelligent news aggregator continuously monitors thousands of reputable publications, curating content based on your specified interests, reading habits, and preferred topics. The sophisticated algorithm learns your preferences over time, refining content suggestions to match your evolving interests while maintaining diverse perspectives. Customizable news feeds allow you to prioritize specific categories such as politics, technology, entertainment, sports, or business, ensuring you receive the most relevant information. Breaking news notifications keep you informed about critical developments, while the offline reading feature downloads seleted articles for consumption without internet connectivity. The clean, distraction-free reading interface enhances comprehension, and the ability to save articles for later reference creates a personal knowledge repository. Social sharing integration, comment functionality, and discussion forums facilitate engagement with news stories and community interaction. Whether you're a casual reader staying informed about current events or a professional requiring comprehensive industry coverage, NewsFlash provides efficient access to reliable information, reduces information overload through intelligent curation, and transforms how you consume and interact with news content in our fast-paced digital world.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.2,
+    "downloads": "35",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/168/168726.png",
+    "title": "LanguageLearner",
+    "companyName": "EduApps",
+    "id": 8,
+    "description": "LanguageLearner revolutionizes language acquisition by combining scientifically-proven teaching methodologies with engaging gamification elements that make mastering new languages both effective and enjoyable. This comprehensive platform offers instruction in over 30 languages through structured lessons that develop vocabulary, grammar, pronunciation, and conversational skills simultaneously. The curriculum progresses from fundamental greetings and essential phrases to complex sentence structures and nuanced expressions, accommodating complete beginners through advanced learners. Interactive speaking exercises utilize speech recognition technology to provide immediate pronunciation feedback, while listening comprehension activities feature native speakers from different regions to develop authentic understanding. The spaced repetition system optimizes vocabulary retention, and the personalized review schedule adapts to your learning pace and memory patterns. Cultural notes and context examples provide insight into how language functions in real-world situations, enhancing practical application. The global community feature connects learners with native speakers for language exchange, while progress tracking, achievement badges, and competitive leaderboards maintain motivation throughout the learning journey. Whether you're preparing for international travel, professional advancement, academic requirements, or personal enrichment, LanguageLearner delivers a structured yet flexible approach to language mastery that fits your schedule and learning preferences while building confidence in your target language.",
+    "size": 65,
+    "reviews": 1600,
+    "ratingAvg": 4.5,
+    "downloads": "54",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 820 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "id": 9,
+    "description": "MusicFlow transforms your audio experience by providing unlimited access to millions of songs, curated playlists, and exclusive content through an intuitive streaming platform designed for music enthusiasts. This sophisticated application offers personalized music recommendations based on your listening history, mood selections, and favorite genres, continuously refining suggestions to match your evolving musical tastes. The advanced audio technology delivers high-quality streaming with customizable equalizer settings that optimize sound for different music styles, listening environments, and audio equipment. Offline listening capabilities allow you to download albums, playlists, and podcasts for enjoyment without internet connectivity, while cross-device synchronization ensures seamless transitions between smartphones, tablets, computers, and compatible smart devices. Curated playlists created by music experts, mood-based collections, and discovery features introduce new artists and genres aligned with your preferences. The social integration enables sharing favorite tracks, collaborative playlist creation with friends, and viewing what others are listening to. Podcast integration, lyrics display, artist biographies, and concert notifications provide a comprehensive music ecosystem. Whether you're discovering new music, creating workout playlists, setting ambiance for social gatherings, or enjoying background music while working, MusicFlow delivers an immersive audio experience that adapts to your lifestyle while supporting artists through fair compensation models.",
+    "size": 75,
+    "reviews": 2700,
+    "ratingAvg": 4.7,
+    "downloads": "95",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1560 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1163/1163657.png",
+    "title": "WeatherWatch",
+    "companyName": "ClimateSoft",
+    "id": 10,
+    "description": "WeatherWatch provides comprehensive meteorological information through accurate forecasting, real-time updates, and severe weather alerts that help users make informed decisions based on current and predicted atmospheric conditions. This sophisticated weather application sources data from multiple reliable meteorological services, employing advanced algorithms to generate precise forecasts for any global location. The intuitive interface presents current conditions, hourly forecasts, and extended 10-day predictions with detailed information about temperature, precipitation probability, humidity levels, wind speed and direction, UV index, and air quality measurements. Interactive radar maps display precipitation patterns, storm movements, and satellite imagery with animation features that visualize weather system developments. Customizable severe weather alerts provide timely notifications about thunderstorms, hurricanes, tornadoes, floods, winter storms, and other hazardous conditions specific to your saved locations. The planning feature suggests optimal times for outdoor activities based on weather conditions, while historical weather data access supports research and comparison. Multiple location tracking, weather widget customization, and wearable device integration ensure convenient access to critical weather information. Whether you're planning daily activities, preparing for travel, monitoring conditions for outdoor hobbies, or staying safe during severe weather events, WeatherWatch delivers reliable, detailed meteorological data through an accessible interface that serves both casual users and weather enthusiasts requiring comprehensive atmospheric information.",
+    "size": 30,
+    "reviews": 1400,
+    "ratingAvg": 4.3,
+    "downloads": "42",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "title": "MindRelax",
+    "companyName": "Wellness Apps",
+    "id": 11,
+    "description": "MindRelax is a comprehensive mental wellness application designed to help users reduce stress, improve focus, and enhance overall emotional well-being through guided meditation sessions, breathing exercises, and mindfulness practices. The app offers a diverse library of meditation programs tailored to specific needs including anxiety reduction, sleep improvement, concentration enhancement, and emotional balance. Each session is led by experienced meditation instructors and mental health professionals who provide gentle guidance through various techniques. The breathing exercise module features visual guides and haptic feedback to help regulate breathing patterns during stressful moments. Sleep-specific content includes bedtime stories, ambient soundscapes, and sleep meditation sequences that promote restful sleep. Progress tracking allows users to monitor their consistency and observe improvements in stress levels and mental clarity over time. The app also includes mood tracking features, personalized recommendations based on user preferences and goals, and offline access to content for practice anywhere. Whether you're new to meditation or an experienced practitioner, MindRelax provides the tools and support needed to develop a sustainable mindfulness practice that fits into your daily routine and helps build resilience against life's challenges.",
+    "size": 55,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": "64",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 665 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "title": "GameZone",
+    "companyName": "FunGames",
+    "id": 12,
+    "description": "GameZone offers an extensive collection of mobile games spanning various genres including puzzle, action, strategy, arcade, and casual games, providing endless entertainment for players of all ages and preferences. The platform features regularly updated content with new game releases, seasonal events, and exclusive titles available only to subscribers. The intuitive interface allows easy discovery of games through personalized recommendations, curated collections, and trending charts based on community popularity. Social features enable players to connect with friends, compare scores on leaderboards, participate in multiplayer matches, and share achievements across social media platforms. The achievement system rewards player progression with unlockable content, special abilities, and cosmetic enhancements that add depth to the gaming experience. Parental controls provide a safe environment for younger players with customizable restrictions on play time, in-app purchases, and social interactions. Cloud saving ensures game progress is preserved across devices, while offline mode allows continued play without internet connectivity. Regular tournaments with real prizes, developer spotlights, and community challenges keep the gaming experience fresh and engaging. Whether you're seeking quick casual games during breaks, immersive story-driven adventures, or competitive multiplayer experiences, GameZone delivers a comprehensive gaming ecosystem that caters to diverse preferences and skill levels.",
+    "size": 100,
+    "reviews": 5000,
+    "ratingAvg": 4.9,
+    "downloads": "25",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2910/2910765.png",
+    "title": "SleepTracker",
+    "companyName": "HealthTech",
+    "id": 13,
+    "description": "SleepTracker is a sophisticated sleep monitoring application that utilizes advanced sensor technology and sleep science to provide comprehensive insights into your sleep patterns and quality. The app employs motion detection and sound analysis to track sleep stages including light sleep, deep sleep, REM cycles, and wake periods throughout the night. Each morning, users receive a detailed sleep score along with analysis of sleep duration, consistency, interruptions, and overall restfulness. The smart alarm feature wakes users during their lightest sleep phase within a specified window, resulting in more natural awakening and reduced grogginess. Sleep environment monitoring assesses factors like room temperature, noise levels, and light exposure that may impact sleep quality. Personalized recommendations based on sleep data help establish better bedtime routines, optimal sleep schedules, and environmental adjustments for improved rest. Integration with wearable devices and smart home systems allows automated adjustments to lighting, temperature, and sounds at bedtime. The sleep diary function enables tracking of daily habits like caffeine consumption, exercise, and stress levels to identify patterns affecting sleep. Historical trend analysis reveals long-term sleep patterns and progress toward sleep improvement goals. Whether you're addressing specific sleep issues, optimizing recovery for athletic performance, or simply seeking to understand your sleep better, SleepTracker provides the data and insights needed to make meaningful improvements to your sleep hygiene and overall well-being.",
+    "size": 35,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": "34",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1033/1033212.png",
+    "title": "PhotoCollage",
+    "companyName": "PixelWorks",
+    "id": 14,
+    "description": "PhotoCollage is a versatile and creative application that enables users to combine multiple photographs into artistic collages, mood boards, and visual compositions with professional-quality results. The app offers an extensive collection of customizable templates ranging from simple grid layouts to elaborate artistic designs suitable for social media posts, digital scrapbooking, photo gifts, and personal projects. Intuitive drag-and-drop functionality makes it easy to arrange photos within frames, while advanced editing tools allow precise adjustments to individual image positioning, rotation, scaling, and perspective. The decoration library includes hundreds of stickers, clipart elements, text fonts with custom formatting options, background patterns, and overlay effects that enhance visual appeal. Border customization, shadow effects, and corner rounding options provide finishing touches to collage creations. The application supports high-resolution output suitable for printing, with various export formats and aspect ratios optimized for different platforms including Instagram, Facebook, Pinterest, and Twitter. Batch processing capabilities enable efficient creation of multiple collages, while the history feature allows revisiting and modifying previous projects. Advanced features include automatic face detection for optimal photo cropping, color coordination tools for harmonious designs, and social sharing integration for instant publishing. Whether you're preserving memories, creating marketing materials, designing invitations, or expressing creativity through visual storytelling, PhotoCollage provides the tools and flexibility to transform ordinary photos into extraordinary visual compositions that capture attention and communicate effectively.",
+    "size": 60,
+    "reviews": 1000,
+    "ratingAvg": 4.5,
+    "downloads": "45",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 460 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1040/1040215.png",
+    "title": "LanguageCoach",
+    "companyName": "EduApps",
+    "id": 15,
+    "description": "LanguageCoach is an advanced language learning platform that focuses on developing practical communication skills through immersive exercises, real-world scenarios, and personalized feedback mechanisms. The application employs speech recognition technology to analyze pronunciation accuracy and provide immediate corrective feedback, helping users develop authentic accents and clear articulation. Vocabulary building occurs through contextual learning with flashcards organized by thematic categories, frequency of use, and difficulty level, reinforced by spaced repetition algorithms that optimize memory retention. Grammar instruction integrates seamlessly into conversational practice, with explanations available at the point of need rather than through isolated drills. The conversation simulator engages users in dialogues with virtual characters across various practical situations like ordering food, asking directions, business meetings, and social interactions, building confidence for real-world communication. Writing exercises range from simple phrase construction to complex paragraph development, with error correction and alternative phrasing suggestions. Cultural notes provide context about customs, etiquette, and communication styles in regions where the target language is spoken. Progress analytics track development across speaking, listening, reading, and writing skills, identifying strengths and areas needing improvement. The adaptive learning path adjusts content difficulty based on performance, ensuring continuous challenge without frustration. Whether preparing for travel, professional requirements, academic studies, or personal enrichment, LanguageCoach delivers a comprehensive language learning experience that prioritizes practical communication skills and cultural understanding.",
+    "size": 70,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": "42",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png",
+    "title": "WorkoutPro",
+    "companyName": "HealthTech",
+    "id": 16,
+    "description": "WorkoutPro is a comprehensive fitness application designed for users at all experience levels, from beginners starting their fitness journey to advanced athletes seeking performance optimization. The platform offers personalized training programs based on individual goals, available equipment, time constraints, and fitness assessment results. Exercise libraries include detailed instructions with video demonstrations, proper form guidance, common mistake identification, and modification options for different fitness levels and physical limitations. The workout planner allows customization of existing programs or creation of completely original routines with specific focus areas like strength building, cardiovascular endurance, flexibility, or sport-specific training. Performance tracking features record weights lifted, repetitions completed, workout duration, and progressive overload to ensure continuous improvement. Integration with wearable devices and health apps provides additional data points like heart rate monitoring, calorie expenditure, and recovery metrics. The nutrition component offers macro tracking, meal planning suggestions, and hydration reminders that complement fitness goals. Community features include workout sharing, group challenges, and social support systems that enhance motivation and accountability. Educational content covers training principles, injury prevention, recovery techniques, and sports nutrition to build user knowledge alongside physical capabilities. Regular program updates, new exercise additions, and seasonal challenges keep the training experience fresh and engaging. Whether your objective is weight management, muscle development, athletic performance, or general health maintenance, WorkoutPro provides the structure, guidance, and tracking tools necessary to achieve sustainable fitness results.",
+    "size": 80,
+    "reviews": 1300,
+    "ratingAvg": 4.7,
+    "downloads": "65",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 610 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
+    "title": "MeditateNow",
+    "companyName": "Wellness Apps",
+    "id": 17,
+    "description": "MeditateNow offers a structured approach to mindfulness and meditation practice with programs designed to reduce stress, enhance focus, improve emotional regulation, and promote overall mental well-being. The application features guided meditation sessions of varying durations to accommodate different schedules and experience levels, from quick 5-minute stress relief exercises to extended 30-minute deep meditation practices. Content is categorized by intention including anxiety reduction, sleep improvement, focus enhancement, emotional healing, and personal growth. The beginner's path provides a progressive introduction to meditation fundamentals, while advanced tracks explore specialized techniques like loving-kindness meditation, body scan practices, and mindfulness-based stress reduction. The meditation timer function allows for self-guided practice with customizable interval bells and ambient sound options. Sleep-specific content includes bedtime stories, breathing exercises, and body relaxation techniques that prepare the mind and body for restful sleep. Progress tracking monitors consistency, session duration, and self-reported mood improvements to demonstrate the cumulative benefits of regular practice. The statistics dashboard visualizes meditation streaks, total practice time, and mood patterns to maintain motivation. Offline access ensures availability of practices without internet connection, while reminders and scheduling features help establish consistent meditation habits. Educational resources explain the science behind meditation benefits, technique variations, and practical applications for daily life challenges. Whether you're seeking stress management tools, spiritual development, cognitive performance enhancement, or emotional balance, MeditateNow provides accessible guidance for developing a sustainable meditation practice that delivers meaningful improvements to mental health and quality of life.",
+    "size": 45,
+    "reviews": 900,
+    "ratingAvg": 4.6,
+    "downloads": "44",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 425 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/136/136523.png",
+    "title": "JournalPro",
+    "companyName": "Productivity Co.",
+    "id": 18,
+    "description": "JournalPro is a sophisticated digital journaling platform that combines the timeless benefits of reflective writing with modern technology to support mental clarity, emotional processing, and personal growth. The application offers multiple journaling formats including traditional free-form writing, guided prompts for specific introspection areas, gratitude logging, goal tracking, and mood recording. The intuitive editor provides formatting options, image insertion, voice-to-text functionality, and tagging systems for organized content retrieval. Template libraries offer structured formats for dream journaling, travel logging, project documentation, and creative writing exercises. The mood tracking feature correlates emotional states with life events and habits, identifying patterns and triggers over time. Password protection and encryption ensure privacy for sensitive entries, while cloud synchronization enables access across multiple devices with automatic backup. Search functionality allows quick retrieval of specific entries using keywords, dates, tags, or mood ratings. Reflection reminders prompt regular journaling practice, while statistics visualize writing consistency, mood trends, and frequently discussed topics. Export options enable printing or digital archiving of journal collections. The application also includes inspirational content, writing challenges, and community features for those seeking connection with other journaling enthusiasts. Whether used for therapeutic purposes, memory preservation, creative expression, or personal development tracking, JournalPro provides a flexible, secure, and feature-rich environment that enhances the journaling experience and maximizes the cognitive and emotional benefits of regular reflective writing practice.",
+    "size": 55,
+    "reviews": 700,
+    "ratingAvg": 4.5,
+    "downloads": "36",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2922/2922514.png",
+    "title": "CookingMaster",
+    "companyName": "Cooking Inc.",
+    "id": 19,
+    "description": "CookingMaster is an all-inclusive culinary application designed to build cooking confidence and skills through step-by-step guidance, video tutorials, and intelligent kitchen management features. The platform offers thousands of tested recipes with detailed instructions, high-quality photography, and video demonstrations that clearly illustrate techniques from basic knife skills to advanced cooking methods. The recipe database includes advanced filtering by cuisine type, dietary requirements, cooking duration, ingredient availability, and difficulty level to quickly find suitable options. The interactive cooking mode displays one step at a time with voice command compatibility, hands-free timers, and automatic progression to prevent recipe overwhelm. The smart shopping list generator compiles ingredients from selected recipes, organizes them by supermarket sections, and allows easy addition of other household items. Meal planning tools help organize weekly menus with nutritional balance consideration, while the inventory management feature tracks pantry staples to reduce food waste and duplicate purchases. Video tutorials from professional chefs cover fundamental techniques, advanced culinary skills, and specific dish preparations with multiple camera angles for clear viewing. The scaling feature automatically adjusts ingredient quantities for different serving sizes, and substitution suggestions offer alternatives for missing ingredients. Community features allow recipe sharing, rating, and modification tracking. Whether you're learning basic cooking skills, expanding your culinary repertoire, managing family meals efficiently, or exploring international cuisines, CookingMaster provides comprehensive kitchen guidance that transforms cooking from a chore into an enjoyable, creative experience while building lifelong culinary capabilities.",
+    "size": 65,
+    "reviews": 850,
+    "ratingAvg": 4.4,
+    "downloads": "35",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1040/1040225.png",
+    "title": "StudyBuddy",
+    "companyName": "EduApps",
+    "id": 20,
+    "description": "StudyBuddy is an intelligent learning platform that enhances academic performance through personalized study plans, interactive content, and progress analytics across diverse subjects and educational levels. The application creates customized study schedules based on curriculum requirements, exam dates, learning objectives, and available study time, optimizing review sessions for maximum knowledge retention. The content library covers core academic subjects including mathematics, sciences, languages, history, and literature with material aligned with standard educational curricula. Interactive flashcards employ spaced repetition algorithms to present information at optimal intervals for memory consolidation, while practice quizzes with immediate feedback identify knowledge gaps and reinforce learning. The note-taking feature allows organization of study materials with formatting options, image insertion, and audio recording integration. Collaborative study tools enable group creation, resource sharing, and virtual study sessions with whiteboard functionality. Progress tracking monitors performance across different topics, identifying strengths and weaknesses to guide focused study efforts. The distraction blocker minimizes interruptions during scheduled study sessions, and the pomodoro timer encourages effective work-break cycles. Exam preparation modules include full-length practice tests, previous years' question papers, and performance analytics that predict actual exam outcomes. Educational games make learning engaging for younger students, while advanced content challenges gifted learners. Whether preparing for standardized tests, managing coursework, learning new skills, or reviewing professional certification material, StudyBuddy provides structured, adaptive learning support that improves study efficiency, knowledge retention, and academic confidence through evidence-based learning techniques and comprehensive educational resources.",
+    "size": 70,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": "40",
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2997/2997896.png",
+    "title": "BudgetPlanner",
+    "companyName": "Finance Pro",
+    "id": 21,
+    "description": "BudgetPlanner is an advanced financial planning application that empowers users to take complete control of their finances through intelligent budgeting tools, expense categorization, and financial goal tracking. The app features automated transaction importing from linked bank accounts and credit cards, with smart categorization that learns from your manual adjustments over time. Custom budget categories can be created for specific spending areas, with visual progress bars and alert notifications when approaching limits. The goal-setting module helps users save for specific objectives like vacations, emergency funds, or major purchases with calculated monthly contribution targets and projected achievement dates. Bill management features track due dates, payment amounts, and provide reminders to avoid late fees. The net worth tracker aggregates all financial accounts to provide a comprehensive view of your financial position, updated in real-time. Advanced reporting generates detailed charts and graphs showing spending patterns, income trends, and savings progress across customizable time periods. The security framework employs bank-level encryption and biometric authentication to protect sensitive financial information. Whether you're living paycheck to paycheck, building wealth, or planning for retirement, BudgetPlanner delivers the insights and tools needed to make informed financial decisions, reduce unnecessary spending, and achieve long-term financial stability through disciplined money management practices.",
+    "size": 52,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": "45",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 920 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/785/785116.png",
+    "title": "PlantCare",
+    "companyName": "GreenThumb Apps",
+    "id": 22,
+    "description": "PlantCare is a comprehensive gardening assistant that helps plant enthusiasts identify, care for, and maintain healthy plants through intelligent features and expert guidance. The application includes a plant identification tool that uses your smartphone camera to recognize thousands of plant species, providing detailed information about their characteristics, origin, and care requirements. The care calendar sends personalized reminders for watering, fertilizing, repotting, and pruning based on each plant's specific needs and seasonal changes. The plant diagnosis feature helps identify common problems like pests, diseases, or nutrient deficiencies through photo analysis and symptom questionnaires, offering targeted treatment recommendations. The extensive plant library contains care guides for indoor houseplants, outdoor garden plants, vegetables, herbs, and succulents with specific instructions for light conditions, soil preferences, humidity requirements, and temperature ranges. The garden planning tool helps design outdoor spaces with compatibility information about which plants thrive together. Community features allow users to share plant progress, ask questions to experienced gardeners, and participate in plant swap initiatives. Weather integration adjusts care recommendations based on local conditions, and the journal feature enables tracking plant growth through photos and notes. Whether you're a beginner struggling to keep plants alive or an experienced gardener expanding your collection, PlantCare provides the knowledge and organizational tools needed to develop your green thumb and create thriving indoor and outdoor plant environments.",
+    "size": 48,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": "28",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936736.png",
+    "title": "PetCare",
+    "companyName": "Animal Friends Ltd",
+    "id": 23,
+    "description": "PetCare is an all-in-one pet management application designed to help pet owners provide the best possible care for their animal companions through organization, education, and connectivity features. The application maintains comprehensive pet profiles including medical records, vaccination schedules, medication reminders, and veterinary contact information with automatic alert notifications for upcoming appointments and treatments. The health tracking module monitors weight, behavior changes, appetite, and activity levels to help identify potential health issues early. The nutrition section provides feeding guidelines, diet recommendations, and portion control assistance based on your pet's breed, age, weight, and activity level. The activity tracker helps ensure pets receive adequate exercise with customizable goals and progress monitoring. The training section offers step-by-step guides for basic obedience, trick training, and behavior modification with video demonstrations from professional trainers. The emergency section includes quick access to poison control information, first aid instructions, and the nearest emergency veterinary clinics. Community features connect pet owners with similar breeds or interests for advice sharing, playdate coordination, and local pet event information. The lost pet protocol provides immediate guidance and resources if a pet goes missing, including poster templates and local shelter contacts. The photo gallery creates a digital scrapbook of your pet's life with milestone tracking. Whether you're a new pet owner learning the basics or an experienced owner managing multiple animals, PetCare centralizes all essential pet-related information and provides expert guidance to ensure your pets remain healthy, happy, and well-cared for throughout their lives.",
+    "size": 58,
+    "reviews": 1100,
+    "ratingAvg": 4.7,
+    "downloads": "32",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 535 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3595/3595458.png",
+    "title": "HomeOrganizer",
+    "companyName": "LifeStyle Apps",
+    "id": 24,
+    "description": "HomeOrganizer is a comprehensive home management application that helps users streamline household operations, maintenance schedules, inventory tracking, and family coordination through centralized organization features. The application includes a home inventory module for cataloging possessions with photos, purchase information, warranty details, and estimated values for insurance purposes. The maintenance scheduler sends reminders for seasonal home upkeep tasks like HVAC filter changes, gutter cleaning, and appliance servicing based on manufacturer recommendations and usage patterns. The cleaning schedule feature creates customized cleaning plans with task frequency settings and rotation systems to maintain organized living spaces without overwhelm. The family calendar syncs with individual members' personal calendars to coordinate activities, appointments, and responsibilities across all household members with color-coding and notification options. The meal planning section integrates recipe collection with grocery list generation and inventory management to reduce food waste and simplify meal preparation. The budget tracker monitors household expenses across categories with spending analysis and bill payment reminders. The home improvement project planner helps organize renovation tasks, material lists, contractor contacts, and budget tracking for DIY projects or professional renovations. Important documents storage provides secure digital filing for home-related paperwork like mortgage documents, insurance policies, and appliance manuals. The emergency preparedness section includes checklists, contact information, and guidance for various household emergencies. Whether you're managing a small apartment or a large family home, HomeOrganizer reduces mental clutter, prevents overlooked maintenance, and creates efficient systems that save time, money, and stress while keeping your household running smoothly.",
+    "size": 62,
+    "reviews": 1300,
+    "ratingAvg": 4.4,
+    "downloads": "38",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 545 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2972/2972128.png",
+    "title": "CodeMaster",
+    "companyName": "DevTech Solutions",
+    "id": 25,
+    "description": "CodeMaster is an interactive programming education platform that teaches coding skills through hands-on exercises, project-based learning, and real-world application across multiple programming languages and technologies. The application offers structured learning paths for beginners starting with fundamental programming concepts and advancing to specialized tracks in web development, mobile app creation, data science, and software engineering. The interactive coding environment allows practice directly within the app with instant feedback, error highlighting, and suggested improvements. Video lessons from industry professionals explain complex concepts clearly, while code challenges reinforce learning through progressively difficult exercises. The project library provides realistic development scenarios where users build functional applications, games, or tools while applying learned concepts. The code review feature analyzes submissions for best practices, efficiency, and readability with personalized suggestions for improvement. The community forum enables collaboration, code sharing, and peer learning with mentorship opportunities from experienced developers. The interview preparation section includes coding problems similar to technical interviews at major tech companies with solution explanations and strategy guidance. The portfolio builder helps users create professional developer portfolios showcasing completed projects and skills. Language support includes Python, JavaScript, Java, C++, Swift, and more with specialized modules for popular frameworks and libraries. Whether you're exploring programming as a hobby, transitioning to a tech career, or advancing existing development skills, CodeMaster provides comprehensive, structured learning experiences that build practical coding abilities through engaging content, immediate practice opportunities, and progressive skill development aligned with industry requirements.",
+    "size": 75,
+    "reviews": 2200,
+    "ratingAvg": 4.8,
+    "downloads": "55",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1295 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3616/3616937.png",
+    "title": "ArtStudio",
+    "companyName": "Creative Labs",
+    "id": 26,
+    "description": "ArtStudio is a powerful digital art creation application that provides professional-grade drawing and painting tools optimized for mobile devices, enabling artists to create stunning visual artwork anywhere. The application features an extensive brush library with customizable settings for size, opacity, flow, texture, and blending modes that simulate traditional media like oil paints, watercolors, charcoal, and ink. The layer system supports multiple layers with different blending modes, layer masks, adjustment layers, and grouping capabilities for complex compositions. The selection tools include magic wand, lasso, and rectangular selections with feathering and transformation options. The color picker offers various color modes including RGB, HSL, and hexadecimal with palette creation, color harmony tools, and recent color history. The symmetry tools create perfect mirrored drawings with multiple symmetry types including vertical, horizontal, radial, and mandala patterns. The perspective guide system helps create accurate architectural drawings and environments with customizable vanishing points. The text tool provides extensive typography options with font collections, formatting controls, and text on path capabilities. The filter gallery includes artistic effects and photo editing tools that can be applied to entire compositions or individual layers. The time-lapse recording automatically captures your creative process for sharing or review. The application supports high-resolution canvases suitable for printing, with multiple file format exports including PSD with layer preservation. Whether you're a traditional artist exploring digital media, a illustrator creating professional work, or a hobbyist enjoying creative expression, ArtStudio delivers sophisticated digital art tools that rival desktop applications while providing the convenience and immediacy of mobile creation.",
+    "size": 85,
+    "reviews": 1800,
+    "ratingAvg": 4.7,
+    "downloads": "42",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 985 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2933/2933245.png",
+    "title": "StarGazer",
+    "companyName": "Space Science Apps",
+    "id": 27,
+    "description": "StarGazer is an advanced astronomy application that transforms your mobile device into a powerful planetarium, helping users identify celestial objects, track astronomical events, and learn about the universe through augmented reality technology. The application uses your device's sensors and GPS to display an accurate real-time map of the night sky, identifying stars, planets, constellations, and deep-space objects simply by pointing your device toward the sky. The database includes information on over 100,000 celestial objects with detailed descriptions, mythology, scientific data, and high-resolution images from space telescopes. The night mode feature preserves night vision with red tinting and adjustable brightness. The event calendar tracks meteor showers, eclipses, planetary alignments, satellite passes, and other astronomical events with notifications and viewing recommendations. The time travel feature allows viewing past or future sky configurations for educational purposes or event planning. The telescope control module interfaces with compatible computerized telescopes for automated object locating and tracking. The observation planning tool suggests optimal viewing times based on weather conditions, moon phases, and object visibility. The augmented reality mode overlays constellation artwork and object information directly onto the live camera view of the sky. The social features enable sharing observations, joining astronomy clubs, and participating in citizen science projects. The educational content includes interactive tours of the solar system, explanations of cosmic phenomena, and updates on current space missions. Whether you're a casual stargazer learning basic constellations or a serious amateur astronomer conducting observations, StarGazer provides comprehensive tools that enhance astronomical understanding and make celestial navigation accessible to everyone regardless of prior experience or equipment.",
+    "size": 68,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": "25",
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2973/2973985.png",
+    "title": "VoiceTranslator",
+    "companyName": "Global Connect Inc",
+    "id": 28,
+    "description": "VoiceTranslator is a sophisticated real-time translation application that breaks down language barriers through advanced speech recognition, machine translation, and text-to-speech technologies supporting over 100 languages. The application features voice-to-voice translation that captures spoken language and instantly translates it aloud in the target language, facilitating natural conversations between people speaking different languages. The conversation mode allows two-way communication with automatic language detection and switching between speakers. The camera translation feature uses optical character recognition to translate text within images, signs, menus, or documents in real-time through your device's camera. The text translation module supports manual input with copy-paste functionality and formatting preservation. The phrasebook includes commonly used expressions categorized by situations like travel, business, medical, or social interactions with audio pronunciations by native speakers. The offline translation package downloads langage pairs for use without internet connectivity, essential for travel or areas with limited connectivity. The history feature saves previous translations for quick reference and learning. The pronunciation guide provides phonetic spellings and slow-speed audio for difficult words. The voice recording capability allows practicing your pronunciation with comparison to native speaker models. The cultural notes offer context about appropriate communication styles, gestures, and etiquette in different regions. The accuracy settings allow adjustment between literal translation and contextual meaning preservation based on communication needs. Whether you're traveling internationally, conducting business across languages, learning a new language, or assisting non-native speakers in your community, VoiceTranslator provides immediate, accurate translation tools that facilitate understanding and connection across linguistic and cultural divides.",
+    "size": 72,
+    "reviews": 1900,
+    "ratingAvg": 4.5,
+    "downloads": "68",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 965 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936676.png",
+    "title": "CarMaintenance",
+    "companyName": "AutoCare Solutions",
+    "id": 29,
+    "description": "CarMaintenance is a comprehensive vehicle management application that helps car owners maintain their vehicles properly, track expenses, monitor fuel efficiency, and address mechanical issues through organized record-keeping and expert guidance. The application maintains detailed service records with reminders for oil changes, tire rotations, filter replacements, and other routine maintenance based on manufacturer recommendations and your specific driving patterns. The fuel tracking module logs fill-ups with cost, volume, and mileage data to calculate accurate fuel economy and identify changes that might indicate mechanical issues. The expense tracker categorizes all vehicle-related costs including insurance, registration, repairs, and accessories for comprehensive ownership cost analysis. The vehicle information section stores important details like VIN, license plate, insurance policy information, and emergency contacts for quick access. The diagnostic trouble code library helps interpret check engine lights with possible causes, severity assessments, and repair recommendations. The recall check feature monitors safety recalls for your specific vehicle with instructions for addressing them. The emergency section provides guidance for common roadside situations like flat tires, dead batteries, or overheating with video demonstrations. The parking location feature saves where you parked with photos and notes. The trip logging capability tracks business vs personal mileage for tax purposes. The market value tracker monitors your vehicle's current worth based on condition, mileage, and market trends. The maintenance forecast predicts upcoming service needs and associated costs for budgeting purposes. Whether you're maintaining a new vehicle under warranty, extending the life of an older car, or managing multiple vehicles, CarMaintenance provides organizational tools and expert knowledge that help prevent costly repairs, maintain optimal performance, and maximize your vehicle's lifespan and resale value.",
+    "size": 55,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": "35",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2933/2933928.png",
+    "title": "BabyTracker",
+    "companyName": "Family Care Apps",
+    "id": 30,
+    "description": "BabyTracker is an essential parenting application that helps caregivers monitor infant development, track daily routines, and manage health information through intuitive logging features and evidence-based guidance. The application allows detailed tracking of feeding sessions including duration, amount, and type (breastfeeding, formula, or solid food) with timing reminders and pattern analysis. The diaper change log records frequency, consistency, and color with alert systems for potential health concerns. The sleep tracker monitors nap and nighttime sleep patterns with insights about sleep quality and schedule recommendations based on age-appropriate expectations. The growth chart plots weight, height, and head circumference percentiles based on World Health Organization standards with visualization of development trends. The milestone tracker documents physical, cognitive, and social development achievements with guidance about typical timing and when to consult pediatricians. The medication log records doses, timing, and prescriptions with reminder alerts for ongoing treatments. The symptom tracker helps monitor illness patterns, temperatures, and concerning symptoms with guidance about when to seek medical attention. The feeding introduction schedule provides evidence-based recommendations for starting solids with allergy awareness and preparation instructions. The memory book automatically compiles logged activities into chronological journals with photo integration. The multi-caregiver synchronization allows partners, family members, and childcare providers to coordinate care with real-time updates. The expert content library provides articles and videos from pediatricians, lactation consultants, and child development specialists. Whether you're a first-time parent navigating newborn care or an experienced caregiver managing multiple children, BabyTracker reduces the mental load of tracking countless details while providing valuable insights about your child's development and ensuring consistent care across all caregivers.",
+    "size": 50,
+    "reviews": 1600,
+    "ratingAvg": 4.7,
+    "downloads": "41",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 865 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2997/2997812.png",
+    "title": "YogaMaster",
+    "companyName": "Wellness Studios",
+    "id": 31,
+    "description": "YogaMaster is a comprehensive yoga application that offers guided practices for all levels, from complete beginners to advanced practitioners. The app features hundreds of yoga classes ranging from 10-minute quick sessions to 90-minute full practices, categorized by style including Hatha, Vinyasa, Ashtanga, Yin, and Restorative yoga. Each class includes detailed pose instructions with modifications for different ability levels and physical limitations. The personalized practice planner creates custom sequences based on your goals, available time, and experience level. The pose library contains detailed information about each asana with benefits, contraindications, and step-by-step alignment instructions. The progress tracker monitors your consistency, flexibility improvements, and strength development over time. The meditation section integrates mindfulness and pranayama exercises to complement your physical practice. The calendar feature helps you establish a consistent routine with reminder notifications. Offline downloading allows you to practice anywhere without internet connection. The expert instructors provide clear guidance through high-quality video and audio instructions. Community features enable you to connect with other practitioners, join challenges, and share experiences. Whether you're seeking stress relief, improved flexibility, strength building, or spiritual growth, YogaMaster provides the guidance and structure needed to develop a sustainable yoga practice that enhances both physical and mental well-being.",
+    "size": 78,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": "52",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1195 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936824.png",
+    "title": "InvestWise",
+    "companyName": "Finance Pro",
+    "id": 32,
+    "description": "InvestWise is a sophisticated investment platform that empowers users to make informed financial decisions through comprehensive market analysis, portfolio tracking, and educational resources. The application provides real-time stock market data, cryptocurrency prices, and mutual fund performance with advanced charting tools and technical indicators. The portfolio tracker automatically syncs with your brokerage accounts to provide a consolidated view of all investments with performance analytics and allocation breakdowns. The watchlist feature allows you to monitor potential investments with price alerts and news notifications. The research section offers detailed company profiles, financial statements, analyst ratings, and earnings call transcripts. The educational content includes courses on investment strategies, market analysis techniques, and risk management principles suitable for beginners through advanced investors. The paper trading feature enables risk-free practice with virtual money before committing real capital. The retirement planner helps project future portfolio values based on current contributions, expected returns, and time horizon. The tax optimization tool identifies tax-loss harvesting opportunities and calculates capital gains implications. The community forum connects investors for idea sharing and discussion. The news aggregator curates financial news from trusted sources with sentiment analysis. Whether you're building your first investment portfolio, managing substantial assets, or learning about financial markets, InvestWise provides the tools, data, and education needed to develop sound investment strategies and make confident financial decisions in various market conditions.",
+    "size": 65,
+    "reviews": 1850,
+    "ratingAvg": 4.6,
+    "downloads": "48",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 955 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2933/2933304.png",
+    "title": "BookWorm",
+    "companyName": "Reading Labs",
+    "id": 33,
+    "description": "BookWorm is a feature-rich reading application that enhances the digital reading experience through customizable interfaces, extensive library management, and social reading features. The app supports multiple ebook formats including EPUB, PDF, and MOBI with flawless rendering and navigation. The reading interface offers extensive customization options for font styles, sizes, colors, spacing, and margins to reduce eye strain and improve readability. The night mode automatically adjusts background colors and brightness for comfortable reading in low light conditions. The library organization system allows categorization by genre, author, reading status, and custom collections with advanced search and filtering capabilities. The reading progress tracker displays completion percentages, reading speed analysis, and time spent reading. The annotation system enables highlighting, note-taking, and bookmarking with export functionality. The dictionary integration provides instant word definitions and translations without leaving the reading interface. The social features allow you to share quotes, see what friends are reading, and join book clubs and discussion groups. The recommendation engine suggests new books based on your reading history and preferences. The audiobook synchronization lets you switch between reading and listening while maintaining your position. The cloud synchronization ensures your library and reading progress are consistent across all devices. Whether you're an avid reader consuming multiple books weekly or a casual reader enjoying occasional literature, BookWorm provides an exceptional reading experience that combines the convenience of digital books with the pleasure of traditional reading.",
+    "size": 42,
+    "reviews": 1650,
+    "ratingAvg": 4.5,
+    "downloads": "39",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 825 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2997/2997877.png",
+    "title": "GuitarTutor",
+    "companyName": "Music Education Co.",
+    "id": 34,
+    "description": "GuitarTutor is a comprehensive guitar learning application that guides users from complete beginner to advanced player through structured lessons, interactive exercises, and real-time feedback. The app features step-by-step video lessons covering fundamental techniques like chord shapes, strumming patterns, finger positioning, and music theory concepts. The interactive tuner uses your device's microphone to help keep your guitar perfectly tuned with visual guidance. The chord library contains hundreds of chord diagrams with finger positions, audio examples, and variation options. The scale explorer helps you learn and practice major, minor, pentatonic, and modal scales across the fretboard. The song library includes thousands of popular songs with interactive tablature, backing tracks, and variable speed playback for practice. The real-time feedback feature uses audio analysis to provide instant correction on timing, pitch accuracy, and technique. The practice planner creates customized routines based on your skill level, available time, and musical interests. The metronome and rhythm exercises help develop solid timing and groove. The recording studio allows you to record your playing, layer multiple tracks, and share your progress. The community features connect you with other learners for motivation and collaboration. The progress tracking monitors your development across various skills and identifies areas needing improvement. Whether you're dreaming of playing campfire songs, joining a band, or becoming a virtuoso, GuitarTutor provides systematic instruction, quality content, and supportive tools that make learning guitar enjoyable and effective.",
+    "size": 88,
+    "reviews": 1950,
+    "ratingAvg": 4.7,
+    "downloads": "45",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1095 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936716.png",
+    "title": "PuzzleMaster",
+    "companyName": "Brain Games Inc",
+    "id": 35,
+    "description": "PuzzleMaster is an extensive collection of brain-training games and puzzles designed to improve cognitive functions, memory, problem-solving skills, and mental agility. The application features hundreds of puzzle types including crosswords, sudoku, word searches, logic puzzles, memory games, and spatial reasoning challenges. The adaptive difficulty system automatically adjusts puzzle complexity based on your performance to maintain optimal challenge levels. The daily training program creates personalized workout sessions targeting different cognitive domains with progress tracking and performance analytics. The multiplayer mode allows you to compete against friends or players worldwide in real-time puzzle battles. The achievement system rewards consistent practice and skill mastery with badges and unlockable content. The puzzle creator tools enable you to design custom puzzles and share them with the community. The statistics dashboard provides detailed insights into your cognitive strengths, improvement areas, and long-term progress trends. The offline mode allows puzzle solving without internet connection, perfect for travel or commuting. The variety of themes and visual styles keeps the experience fresh and engaging. The expert-designed puzzles ensure quality content that effectively trains different aspects of cognitive function. The reminder system helps establish consistent brain-training habits. Whether you're looking to sharpen your mental abilities, prevent cognitive decline, or simply enjoy challenging puzzles, PuzzleMaster offers scientifically-designed games that make cognitive training enjoyable while delivering measurable improvements in memory, attention, and problem-solving capabilities.",
+    "size": 55,
+    "reviews": 1750,
+    "ratingAvg": 4.6,
+    "downloads": "42",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 185 },
+      { "name": "4 star", "count": 580 },
+      { "name": "5 star", "count": 910 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2997/2997743.png",
+    "title": "InteriorDesign",
+    "companyName": "Home Style Labs",
+    "id": 36,
+    "description": "InteriorDesign is a powerful home design application that enables users to visualize, plan, and execute interior design projects through augmented reality, 3D modeling, and professional guidance. The app features an augmented reality room planner that lets you place virtual furniture and decor in your actual space using your device's camera. The 3D design studio allows you to create complete room layouts with accurate measurements, furniture arrangements, and material selections. The product catalog includes thousands of real furniture items and decor pieces from popular retailers with direct purchasing options. The style quiz helps identify your design preferences and suggests cohesive color palettes, furniture styles, and arrangement ideas. The mood board creator enables you to collect inspiration images, color swatches, and product links in organized projects. The measurement tools help you accurately assess spaces and furniture dimensions. The lighting simulator shows how different lighting conditions affect your design throughout the day. The renovation planner helps coordinate larger projects with budget tracking, timeline management, and contractor organization features. The community gallery provides inspiration from other users' completed projects with the ability to save favorite ideas. The professional consultation feature connects you with interior designers for personalized advice. The project portfolio documents your design journey with before-and-after comparisons. Whether you're refreshing a single room, planning a major renovation, or exploring design ideas for future projects, InteriorDesign provides the visualization tools, inspiration, and practical guidance needed to create beautiful, functional spaces that reflect your personal style.",
+    "size": 95,
+    "reviews": 1450,
+    "ratingAvg": 4.5,
+    "downloads": "36",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 195 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2933/2933247.png",
+    "title": "RunningCoach",
+    "companyName": "Sports Performance",
+    "id": 37,
+    "description": "RunningCoach is a comprehensive running application that provides personalized training plans, performance tracking, and technique analysis for runners of all levels. The app creates customized training programs based on your current fitness level, goals, schedule availability, and target race distance. The GPS tracking accurately records your routes, distance, pace, and elevation with detailed post-run analytics. The audio coaching provides real-time feedback on pace, form, and effort level during your runs. The technique analysis uses your device's sensors to evaluate running form with suggestions for improvement. The workout library includes interval training, hill repeats, tempo runs, and recovery runs with detailed instructions. The race predictor estimates your potential finish times for various distances based on recent performances. The recovery advisor suggests optimal rest periods and cross-training activities based on workout intensity. The nutrition guidance provides pre-run and post-run meal suggestions tailored to your training schedule. The community challenges and virtual races keep motivation high with friendly competition. The weather integration adjusts workout recommendations based on current conditions. The gear tracker monitors shoe mileage and alerts you when replacement is recommended. The health platform integration syncs with popular wearables for comprehensive activity data. Whether you're training for your first 5K, aiming for a marathon personal best, or simply maintaining fitness through regular running, RunningCoach provides the structure, feedback, and support needed to run smarter, prevent injuries, and achieve your personal running goals.",
+    "size": 72,
+    "reviews": 2250,
+    "ratingAvg": 4.7,
+    "downloads": "58",
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1295 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2936/2936674.png",
+    "title": "WineGuide",
+    "companyName": "Culinary Arts Co.",
+    "id": 38,
+    "description": "WineGuide is an extensive wine education and discovery application that helps users explore, understand, and enjoy wine through detailed information, personalized recommendations, and social features. The app features a comprehensive wine database with information on grape varieties, regions, producers, and vintages with professional reviews and user ratings. The label recognition tool uses your camera to identify wines and provide instant information including tasting notes, food pairing suggestions, and average prices. The personal wine journal allows you to record tasting notes, rate wines, and track your preferences over time. The recommendation engine suggests new wines based on your tasting history and flavor preferences. The food pairing guide provides expert suggestions for matching wines with different cuisines and dishes. The virtual cellar organizer helps you manage your wine collection with drinking windows, inventory tracking, and value estimation. The educational content includes courses on wine regions, grape varieties, tasting techniques, and wine service. The event calendar tracks wine tastings, festivals, and classes in your area. The social features allow you to follow friends, share discoveries, and join tasting groups. The shopping integration helps you locate where to purchase recommended wines locally or online. The sommelier chat feature provides access to wine experts for personalized advice. The travel guide highlights wine regions with recommended wineries, restaurants, and accommodations. Whether you're a curious beginner exploring the world of wine or an experienced enthusiast expanding your knowledge, WineGuide provides the tools, information, and community to enhance your wine appreciation journey and make informed choices about selection, pairing, and collection.",
+    "size": 68,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": "29",
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2997/2997921.png",
+    "title": "FirstAid",
+    "companyName": "Health Emergency Systems",
+    "id": 39,
+    "description": "FirstAid is a comprehensive emergency response application that provides immediate guidance during medical emergencies, step-by-step first aid instructions, and emergency preparedness resources. The app features simple emergency access with one-tap calling to local emergency services and automatic sharing of your location with designated contacts. The symptom checker helps assess medical situations with guided questions and appropriate response recommendations. The step-by-step first aid instructions cover common emergencies including CPR, choking, bleeding, burns, fractures, and allergic reactions with visual demonstrations. The video library contains professional demonstrations of essential first aid techniques from certified instructors. The emergency preparedness section includes checklists for building first aid kits, creating family emergency plans, and preparing for natural disasters. The medication guide provides information about common medications including uses, dosages, and side effects. The hospital locator helps find the nearest medical facilities with directions and estimated arrival times. The personal health profile stores important medical information including allergies, conditions, medications, and emergency contacts for quick access. The reminder system helps track medication schedules and medical appointments. The weather alert system provides warnings about conditions that may affect health. The offline functionality ensures critical information is available without internet connection. Whether you're a parent wanting to handle childhood emergencies, an outdoor enthusiast preparing for adventures, or simply responsible for workplace safety, FirstAid provides the knowledge, tools, and confidence to respond effectively in emergency situations while promoting overall safety awareness and preparedness.",
+    "size": 45,
+    "reviews": 1950,
+    "ratingAvg": 4.8,
+    "downloads": "65",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1175 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2933/2933315.png",
+    "title": "PodcastHub",
+    "companyName": "Audio Media Network",
+    "id": 40,
+    "description": "PodcastHub is a feature-rich podcast application that offers extensive discovery tools, customizable playback, and seamless synchronization across devices. The app provides access to millions of podcasts across all genres with advanced search and recommendation algorithms. The personalized discovery feed suggests new shows based on your listening history, subscriptions, and preferences. The smart playback features include variable speed control, silence removal, voice boost, and chapter navigation. The automatic download management downloads new pisodes based on your preferences while managing device storage. The playlist creation allows you to organize episodes across different shows for specific moods, activities, or topics. The sleep timer automatically stops playback after a set time or at the end of the current episode. The cross-device synchronization ensures your listening progress, subscriptions, and settings are consistent across smartphones, tablets, and computers. The social features enable you to share episodes, see what friends are listening to, and join discussion groups. The episode bookmarking lets you save specific moments with notes for future reference. The transcription feature provides text versions of episodes for situations where audio isn't practical. The creator tools allow podcasters to manage and analyze their shows directly within the app. The offline mode ensures your favorite content is available without internet connection. Whether you're a casual listener enjoying entertainment during commutes or a dedicated podcast enthusiast consuming educational content regularly, PodcastHub delivers an exceptional listening experience with powerful organization, discovery, and playback features that adapt to your lifestyle and listening preferences.",
+    "size": 58,
+    "reviews": 2350,
+    "ratingAvg": 4.7,
+    "downloads": "72",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 750 },
+      { "name": "5 star", "count": 1325 }
+    ]
+  }
+]
