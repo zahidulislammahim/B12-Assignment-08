@@ -55,12 +55,10 @@ const AppDetails = () => {
   } = appData || {};
 
   const handleInstall = () => {
-    // localStorage-এ সেভ করবো
     const installedApps = JSON.parse(localStorage.getItem("install")) || [];
     const updatedInstalledApps = [...installedApps, appData];
     localStorage.setItem("install", JSON.stringify(updatedInstalledApps));
     
-    // state আপডেট করবো
     setIsInstalled(true);
     
     Swal.fire({
